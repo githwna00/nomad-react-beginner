@@ -30,6 +30,7 @@ function Home() {
             return (
               <Movie
                 key={item.id}
+                id={item.id}
                 coverImg={item.medium_cover_image}
                 title={item.title}
                 summary={item.summary}
