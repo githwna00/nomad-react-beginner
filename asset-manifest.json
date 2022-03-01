@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/nomad-react-beginner/static/js/main.ab3ce298.js",
+    "static/js/787.163aed74.chunk.js": "/nomad-react-beginner/static/js/787.163aed74.chunk.js",
+    "index.html": "/nomad-react-beginner/index.html",
+    "main.ab3ce298.js.map": "/nomad-react-beginner/static/js/main.ab3ce298.js.map",
+    "787.163aed74.chunk.js.map": "/nomad-react-beginner/static/js/787.163aed74.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ab3ce298.js"
+  ]
+}
